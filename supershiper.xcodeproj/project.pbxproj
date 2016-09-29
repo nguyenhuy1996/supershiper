@@ -7,21 +7,43 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		841209221D9BE2AF0083D8FD /* ForgotPassword.swift in Sources */ = {isa = PBXBuildFile; fileRef = 841209211D9BE2AF0083D8FD /* ForgotPassword.swift */; };
+		841209241D9BF53F0083D8FD /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 841209231D9BF53F0083D8FD /* GoogleService-Info.plist */; };
+		8428C6F01D9689BF002D4160 /* person_icon-lxp4jzwh9pk2alnq6y33m7lt11ulqefwftf579go1c.png in Resources */ = {isa = PBXBuildFile; fileRef = 8428C6EF1D9689BF002D4160 /* person_icon-lxp4jzwh9pk2alnq6y33m7lt11ulqefwftf579go1c.png */; };
+		8428C6F21D968A3E002D4160 /* photo.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8428C6F11D968A3E002D4160 /* photo.jpg */; };
+		8428C6F41D968C38002D4160 /* InfoUserViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8428C6F31D968C38002D4160 /* InfoUserViewController.swift */; };
 		842DB8EA1D9197150092584D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 842DB8E91D9197150092584D /* AppDelegate.swift */; };
 		842DB8EC1D9197150092584D /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 842DB8EB1D9197150092584D /* ViewController.swift */; };
 		842DB8EF1D9197150092584D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 842DB8ED1D9197150092584D /* Main.storyboard */; };
-		842DB8F11D9197150092584D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 842DB8F01D9197150092584D /* Assets.xcassets */; };
 		842DB8F41D9197150092584D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 842DB8F21D9197150092584D /* LaunchScreen.storyboard */; };
+		846E79271D97D474000DBF60 /* LeftMenuTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 846E79261D97D474000DBF60 /* LeftMenuTableViewController.swift */; };
+		847E3DC61D93CEBA00857A57 /* DangKyViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 847E3DC51D93CEBA00857A57 /* DangKyViewController.swift */; };
+		848823641D9277B8001E3D0E /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 848823631D9277B8001E3D0E /* LoginViewController.swift */; };
+		848823681D927ABF001E3D0E /* SWRevealViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 848823671D927ABF001E3D0E /* SWRevealViewController.m */; };
+		A649498FAE6C473B22201FC8 /* Pods_supershiper.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4818F55958061776989BC535 /* Pods_supershiper.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0197D1418DAB4C21A68E79A9 /* Pods-supershiper.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-supershiper.debug.xcconfig"; path = "Pods/Target Support Files/Pods-supershiper/Pods-supershiper.debug.xcconfig"; sourceTree = "<group>"; };
+		172A4586783AE80836C0D5F7 /* Pods-supershiper.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-supershiper.release.xcconfig"; path = "Pods/Target Support Files/Pods-supershiper/Pods-supershiper.release.xcconfig"; sourceTree = "<group>"; };
+		4818F55958061776989BC535 /* Pods_supershiper.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_supershiper.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		841209211D9BE2AF0083D8FD /* ForgotPassword.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ForgotPassword.swift; sourceTree = "<group>"; };
+		841209231D9BF53F0083D8FD /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = "GoogleService-Info.plist"; path = "../../../../../Users/admin/Downloads/GoogleService-Info.plist"; sourceTree = "<group>"; };
+		8428C6EF1D9689BF002D4160 /* person_icon-lxp4jzwh9pk2alnq6y33m7lt11ulqefwftf579go1c.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "person_icon-lxp4jzwh9pk2alnq6y33m7lt11ulqefwftf579go1c.png"; sourceTree = SOURCE_ROOT; };
+		8428C6F11D968A3E002D4160 /* photo.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = photo.jpg; sourceTree = SOURCE_ROOT; };
+		8428C6F31D968C38002D4160 /* InfoUserViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = InfoUserViewController.swift; sourceTree = "<group>"; };
 		842DB8E61D9197150092584D /* supershiper.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = supershiper.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		842DB8E91D9197150092584D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		842DB8EB1D9197150092584D /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		842DB8EE1D9197150092584D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		842DB8F01D9197150092584D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		842DB8F31D9197150092584D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		842DB8F51D9197150092584D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		846E79261D97D474000DBF60 /* LeftMenuTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LeftMenuTableViewController.swift; sourceTree = "<group>"; };
+		847E3DC51D93CEBA00857A57 /* DangKyViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DangKyViewController.swift; sourceTree = "<group>"; };
+		848823631D9277B8001E3D0E /* LoginViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = LoginViewController.swift; path = ../LoginViewController.swift; sourceTree = "<group>"; };
+		848823651D927ABE001E3D0E /* supershiper-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "supershiper-Bridging-Header.h"; sourceTree = "<group>"; };
+		848823661D927ABF001E3D0E /* SWRevealViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SWRevealViewController.h; path = "../../SWRevealViewController-master/SWRevealViewController/SWRevealViewController.h"; sourceTree = "<group>"; };
+		848823671D927ABF001E3D0E /* SWRevealViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = SWRevealViewController.m; path = "../../SWRevealViewController-master/SWRevealViewController/SWRevealViewController.m"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -29,17 +51,51 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A649498FAE6C473B22201FC8 /* Pods_supershiper.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		14F79F7EC411CBCA74013202 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				4818F55958061776989BC535 /* Pods_supershiper.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		8412091E1D9BE1E70083D8FD /* Scripts */ = {
+			isa = PBXGroup;
+			children = (
+				848823631D9277B8001E3D0E /* LoginViewController.swift */,
+				842DB8EB1D9197150092584D /* ViewController.swift */,
+				842DB8E91D9197150092584D /* AppDelegate.swift */,
+				8428C6F31D968C38002D4160 /* InfoUserViewController.swift */,
+				846E79261D97D474000DBF60 /* LeftMenuTableViewController.swift */,
+				847E3DC51D93CEBA00857A57 /* DangKyViewController.swift */,
+				841209211D9BE2AF0083D8FD /* ForgotPassword.swift */,
+			);
+			name = Scripts;
+			sourceTree = "<group>";
+		};
+		841209201D9BE2120083D8FD /* UI */ = {
+			isa = PBXGroup;
+			children = (
+				8428C6EF1D9689BF002D4160 /* person_icon-lxp4jzwh9pk2alnq6y33m7lt11ulqefwftf579go1c.png */,
+				8428C6F11D968A3E002D4160 /* photo.jpg */,
+			);
+			name = UI;
+			sourceTree = "<group>";
+		};
 		842DB8DD1D9197140092584D = {
 			isa = PBXGroup;
 			children = (
 				842DB8E81D9197150092584D /* supershiper */,
 				842DB8E71D9197150092584D /* Products */,
+				C3F2A8D8144DE104DAAFD831 /* Pods */,
+				14F79F7EC411CBCA74013202 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -54,14 +110,26 @@
 		842DB8E81D9197150092584D /* supershiper */ = {
 			isa = PBXGroup;
 			children = (
-				842DB8E91D9197150092584D /* AppDelegate.swift */,
-				842DB8EB1D9197150092584D /* ViewController.swift */,
+				841209201D9BE2120083D8FD /* UI */,
+				8412091E1D9BE1E70083D8FD /* Scripts */,
 				842DB8ED1D9197150092584D /* Main.storyboard */,
-				842DB8F01D9197150092584D /* Assets.xcassets */,
 				842DB8F21D9197150092584D /* LaunchScreen.storyboard */,
+				841209231D9BF53F0083D8FD /* GoogleService-Info.plist */,
+				848823661D927ABF001E3D0E /* SWRevealViewController.h */,
+				848823671D927ABF001E3D0E /* SWRevealViewController.m */,
 				842DB8F51D9197150092584D /* Info.plist */,
+				848823651D927ABE001E3D0E /* supershiper-Bridging-Header.h */,
 			);
 			path = supershiper;
+			sourceTree = "<group>";
+		};
+		C3F2A8D8144DE104DAAFD831 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				0197D1418DAB4C21A68E79A9 /* Pods-supershiper.debug.xcconfig */,
+				172A4586783AE80836C0D5F7 /* Pods-supershiper.release.xcconfig */,
+			);
+			name = Pods;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -71,9 +139,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 842DB8F81D9197150092584D /* Build configuration list for PBXNativeTarget "supershiper" */;
 			buildPhases = (
+				B6F90300B7A1D882D2A906E0 /* [CP] Check Pods Manifest.lock */,
 				842DB8E21D9197150092584D /* Sources */,
 				842DB8E31D9197150092584D /* Frameworks */,
 				842DB8E41D9197150092584D /* Resources */,
+				C0AF27D2F2303AB417D1959A /* [CP] Embed Pods Frameworks */,
+				3FA08D91B65171CD099EBE90 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -123,21 +194,77 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8428C6F01D9689BF002D4160 /* person_icon-lxp4jzwh9pk2alnq6y33m7lt11ulqefwftf579go1c.png in Resources */,
 				842DB8F41D9197150092584D /* LaunchScreen.storyboard in Resources */,
-				842DB8F11D9197150092584D /* Assets.xcassets in Resources */,
+				841209241D9BF53F0083D8FD /* GoogleService-Info.plist in Resources */,
+				8428C6F21D968A3E002D4160 /* photo.jpg in Resources */,
 				842DB8EF1D9197150092584D /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		3FA08D91B65171CD099EBE90 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-supershiper/Pods-supershiper-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		B6F90300B7A1D882D2A906E0 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		C0AF27D2F2303AB417D1959A /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-supershiper/Pods-supershiper-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		842DB8E21D9197150092584D /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				848823641D9277B8001E3D0E /* LoginViewController.swift in Sources */,
 				842DB8EC1D9197150092584D /* ViewController.swift in Sources */,
+				847E3DC61D93CEBA00857A57 /* DangKyViewController.swift in Sources */,
+				841209221D9BE2AF0083D8FD /* ForgotPassword.swift in Sources */,
+				8428C6F41D968C38002D4160 /* InfoUserViewController.swift in Sources */,
 				842DB8EA1D9197150092584D /* AppDelegate.swift in Sources */,
+				848823681D927ABF001E3D0E /* SWRevealViewController.m in Sources */,
+				846E79271D97D474000DBF60 /* LeftMenuTableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -248,23 +375,30 @@
 		};
 		842DB8F91D9197150092584D /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 0197D1418DAB4C21A68E79A9 /* Pods-supershiper.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
 				INFOPLIST_FILE = supershiper/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "Swift-Development.supershiper";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "supershiper/supershiper-Bridging-Header.h";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 			};
 			name = Debug;
 		};
 		842DB8FA1D9197150092584D /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 172A4586783AE80836C0D5F7 /* Pods-supershiper.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
 				INFOPLIST_FILE = supershiper/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "Swift-Development.supershiper";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "supershiper/supershiper-Bridging-Header.h";
 			};
 			name = Release;
 		};
@@ -287,6 +421,7 @@
 				842DB8FA1D9197150092584D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
